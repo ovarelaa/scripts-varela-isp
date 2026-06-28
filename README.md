@@ -12,3 +12,6 @@ Para evitar descontos na monitoria, este script copia todos os atendimentos do c
 
 documentação-ax2-ws.js:
 Script que puxa todos os dados de roteadores HUAWEI AX2, V2 e V3 automaticamente para seu bloco de notas, agilizando na tratativa.
+
+copiar-contatos.js:
+Script pensado para agilizar o trabalho da Resolução, em que copia todos os números que estão no cadastro e inclui uma mensagem pronta para inserir no atendimento em caso de falta de contato.
